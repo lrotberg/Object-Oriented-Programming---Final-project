@@ -1,0 +1,117 @@
+8
+How many confirmed moons revolve around Jupiter?
+6
+63
+true
+52
+false
+14
+false
+0
+false
+45
+false
+72
+false
+How many times the mass of Earth is the mass of Jupiter?
+6
+10
+false
+200
+false
+318
+true
+457
+false
+322
+false
+289
+false
+How many Earth days does it take for Mercury to complete 1 day?
+6
+86
+false
+1/5
+false
+176
+true
+12
+false
+154
+false
+69
+false
+What is the average distance(in KM) between the Earth and the moon?
+6
+384,405
+true
+189,112
+false
+856,743
+false
+1,625,004
+false
+275,369
+false
+411,008
+false
+Uranus's moons are named after?
+7
+Norse deities
+false
+Famous astronomers
+false
+Kinds of horses
+false
+Catholic saints
+false
+Characters from plays by William Shakespeare
+true
+Characters from plays by Alexander Pop
+true
+European rivers and ponds
+false
+Triton is a moon of which planet?
+7
+Saturn
+false
+Mars
+false
+Neptune
+true
+Uranus
+false
+It's not a moon, it's an asteroid located in the asteroids belt
+false
+Not a moon but an exo-planet
+false
+The planet known in Hebrew as "Rahav"
+true
+Which of the following planets does NOT have rings?
+6
+Mars
+true
+Jupiter
+false
+Saturn
+false
+Uranus
+false
+Venus
+true
+Earth
+true
+What is the estimated diameter of Earth(in KM)?
+6
+234,000
+false
+5,000
+false
+40,000
+true
+70,000
+false
+48,000
+false
+36,000
+false
